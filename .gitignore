@@ -1,3 +1,5 @@
 # Exclude oversized local data files that cannot be pushed to GitHub
 combined_transactions.csv
 final_dataset_with_dates.csv
+
+transactions_parquet/
